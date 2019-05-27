@@ -1,4 +1,4 @@
-import allure,pytest
+import allure, pytest
 
 
 class Test001:
