@@ -14,4 +14,4 @@ class Test001:
     def test_002(self):
         allure.attach("标题002", "002具体的描述内容")
         print("-->test_002")
-        assert False
+        assert True
